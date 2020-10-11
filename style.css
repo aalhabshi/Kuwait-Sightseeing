@@ -1,19 +1,26 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+html {
+    height: 100vh;
+}
+
 body {
     background-color: #55a9e0;
-    background-image: url(./img/background.PNG);
+    background-image: url(./img/ALI.png);
     background-repeat: no-repeat;
-    background-size: 117%;
+    background-size: 100%;
     background-position: bottom;
-    margin-bottom: 61%;
+    height: 100vh;
     
 }
 
 .translate {
     display: flex;
     justify-content: center;
-  
-
-    display: flex;
     align-items: center;
-    justify-content: center;
+    height: 150vh;
   }
