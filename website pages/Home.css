@@ -17,6 +17,22 @@
       height: 100vh;
       
   }
+  .card {
+    border-radius: 16px;
+    width: 1750px;
+    height: 750px;
+    background-color: #82ccfde0;
+   
+  }
+
+  .center {
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
 
     
     a {
@@ -99,3 +115,4 @@ color: #8ECEF8;
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
