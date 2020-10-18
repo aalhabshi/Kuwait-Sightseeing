@@ -102,7 +102,7 @@ color: #8ECEF8;
 
 .dropdown-content a {
   float: none;
-  color: black;
+  color: rgb(255, 255, 255);
   padding: 12px 16px;
   text-decoration: none;
   display: block;
@@ -115,4 +115,8 @@ color: #8ECEF8;
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+.selected {
+  background-color: #276894;
 }
