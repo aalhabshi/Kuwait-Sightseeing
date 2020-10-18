@@ -17,7 +17,6 @@
       height: 100vh;
       
   }
-
   .card {
     border-radius: 16px;
     width: 1750px;
@@ -110,7 +109,8 @@ color: #8ECEF8;
 }
 
 .dropdown-content a:hover {
-  background-color: #ddd;
+  background-color: #BBE1FA;
+  color: #000000;
 }
 
 .dropdown:hover .dropdown-content {
