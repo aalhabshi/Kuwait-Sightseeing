@@ -19,10 +19,10 @@
     }
     .card {
       border-radius: 16px;
-      width: 1750px;
-      height: 750px;
+      width: 1890px;
+      height: 850px;
       background-color: #82ccfde0;
-     
+      text-align: right;
     }
   
     .center {
