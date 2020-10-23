@@ -15,14 +15,12 @@
       background-size: 100%;
       background-position: bottom;
       height: 100vh;
-      
   }
   .card {
     border-radius: 16px;
     width: 1890px;
     height: 850px;
     background-color: #82ccfde0;
-    text-align: right;
   }
 
   .center {
@@ -37,7 +35,7 @@
     
     a {
       display: block;
-      padding: 8px;
+      padding: none;
       background-color: #3282B8;
    }
 
@@ -48,7 +46,6 @@
       overflow: hidden;
       background-color: #035AA6;
       display: flex;
-      flex-direction: row-reverse;
       justify-content: space-between;
     }
     
@@ -115,8 +112,4 @@ color: #8ECEF8;
 
 .dropdown:hover .dropdown-content {
   display: block;
-}
-
-.selected {
-  background-color: #276894;
 }
