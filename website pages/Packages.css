@@ -113,3 +113,39 @@ color: #8ECEF8;
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.packages {
+  border-radius: 24px;
+  width: 1000px;
+  height: 100px;
+  background-color: #0B7ADB;
+  color: #ffffff;
+  text-align: center;
+}
+
+.one {
+  margin: auto;
+  position: absolute;
+  top: -650px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.contact {
+  border-radius: 24px;
+  width: 1000px;
+  height: 40px;
+  background-color: #0D61AB;
+  color: #ffffff;
+  text-align: center;
+}
+
+.section {
+  margin: auto;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
